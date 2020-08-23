@@ -1,18 +1,12 @@
-title:              "블로그 제목"
-tagline:            "블로그 슬로건"
-email:              "your-email@example.com"
-description:        "블로그 설명"
-author:             "작성자 이름"
+title:              "Yuri’s Pouch"
+tagline:            "Let’s become a K-beauty expert with Yuri"
+email:              "yurispouch@gmail.com"
+description:        "We share the latest information about the K-Beauty industry."
+author:             "yuri"
 baseurl:            "/"
-url:                "https://도메인"
-locale:             "ko_KR"
-thumbnail:          "/img/thumbnail.jpg"
-
-# Social Profiles
-twitter_username:   twitter_username
-instagram_username: instagram_username
-facebook_username:  facebook_username
-linkedin_username:  linkedin_username
+url:                "https://yourispouch.com"
+locale:             "en_US"
+thumbnail:          "/img/thumb.jpeg"
 
 # Build settings
 markdown:           kramdown
