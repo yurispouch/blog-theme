@@ -1,7 +1,7 @@
 ---
 layout: post
-permalink: /why-should/
-title: 'Why should we pay attention to K-Beauty industry'
+permalink: /why-kbeauty/
+title: 'Why should we pay attention to K-Beauty'
 date: 2020-08-23 11:30:00 +09:00
 feature: '/img/posts/01/textmain.jpeg'
 background: '/img/posts/01/textthumb.jpeg'
