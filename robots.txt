@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://yurispouch.com/sitemap.xml
+
+DaumWebMasterTool:bb6a6c55c0e9cf2e2d430a96644038bcc65987234e7d68ed5921a57e450b550e:8+R9pCGyucsS10vXk/Zuog==
