@@ -4,7 +4,7 @@ email:              "yurispouch@gmail.com"
 description:        "We share the latest information about the K-Beauty industry."
 author:             "yuri"
 baseurl:            "/"
-url:                "https://yourispouch.com"
+url:                "https://yurispouch.com"
 locale:             "en_US"
 thumbnail:          "/img/thumb.jpeg"
 
