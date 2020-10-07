@@ -6,7 +6,7 @@ date: 2020-08-23 11:30:00 +09:00
 feature: '/img/posts/01/textmain.jpeg'
 background: '/img/posts/01/textthumb.jpeg'
 categories:
-  - Monthly
+  - monthly
 tags:
   - K-Beauty
   - Cosmetics
