@@ -45,10 +45,14 @@ layout: default
             {% endif %}
 
           </div>
-
         </div>
       </div>
     </div>
   </article>
 
 {% include disqus.html %}
+
+<script>
+  var title = "{{ page.title }}";
+  gtag('event', title, {'event_category': '글 보기'});
+</script>
