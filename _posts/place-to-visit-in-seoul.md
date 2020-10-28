@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /best_ig_spots_in_seoul/
-title: 'Looking for best IG spots in Seoul? Perfect place for selfies and unique souvenirs'
+title: 'Looking for best IG spots in Seoul?'
 date: 2020-10-28 10:00:00 +09:00
 feature: '/img/posts/06/textmain.jpeg'
 background: '/img/posts/06/textthumb.jpeg'
@@ -13,7 +13,7 @@ tags:
   - Cosmetics
   - stores
   - selfie
-description: 'Must Visit Kbeauty Stores In Seoul TOP 3 – Hince Atelier Sungsu & Tamburins Flagship Sinsa & Dr.Jart Filter Space'
+description: 'Perfect place for selfies and unique souvenirs - Must Visit Kbeauty Stores In Seoul TOP 3'
 ---
 
 
