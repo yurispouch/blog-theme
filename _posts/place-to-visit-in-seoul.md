@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /best_ig_spots_in_seoul/
-title: 'Looking for best IG spots in Seoul? Perfect place for selfies and unique souvernirs'
+title: 'Looking for best IG spots in Seoul? Perfect place for selfies and unique souvenirs'
 date: 2020-10-28 10:00:00 +09:00
 feature: '/img/posts/06/textmain.jpg'
 background: '/img/posts/06/textthumb.jpg'
