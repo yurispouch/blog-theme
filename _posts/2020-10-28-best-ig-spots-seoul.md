@@ -3,15 +3,14 @@ layout: post
 permalink: /best_ig_spots_in_seoul/
 title: 'Looking for best IG spots in Seoul?'
 date: 2020-11-08 10:00:00 +09:00
-feature: '/img/posts/07/textmain.jpeg'
-background: '/img/posts/07/textthumb.jpeg'
+feature: '/img/posts/06/textmain.jpeg'
+background: '/img/posts/06/textthumb.jpeg'
 categories:
   - monthly
 tags:
   - K-Beauty
   - Skincare
   - Cosmetics
-  - skinfood
   - selfie
 description: 'Perfect place for selfies and unique souvenirs - Must Visit Kbeauty Stores In Seoul TOP 3'
 ---
