@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /tamburins/
-title: 'Tamburins, we sells branding not only products/'
+title: 'Tamburins, we sells branding not only products'
 date: 2020-12-06 10:00:00 +09:00
 feature: '/img/posts/09/textmain.jpg'
 background: '/img/posts/09/textthumb.png'
