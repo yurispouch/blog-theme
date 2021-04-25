@@ -37,7 +37,7 @@ The 'Semi-cure gel nail' is a thick, voluminous gel nail sticker and then baked 
 
 ![dashing diva](/img/posts/12/dashingdiva.jpeg)
 
-TDashing Diva, a New York brand, entered Korea in 2015 and became the first trend leader in the nail strip market.
+Dashing Diva, a New York brand, entered Korea in 2015 and became the first trend leader in the nail strip market.
 As well as nail strips of various designs, 'The magic press', which anyone can easily attach and detach, has gained sensational popularity, accounting for 90% of the market share by 2018.
 
 ![new muse Jenny](/img/posts/12/jenny.jpeg)
